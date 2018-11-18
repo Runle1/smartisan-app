@@ -1,0 +1,32 @@
+footer{
+    .active{
+        background: linear-gradient(0deg,hsla(0,0%,100%,.05),rgba(0,0,0,.05));
+    }
+    ul{
+        left: 0;
+        right: 0;
+        height:54px;
+        bottom: 0;
+        position: fixed;
+        background-color:#fff;
+        box-shadow: 0 -11px 32px rgba(0,0,0,.08);
+        li{
+           width: 25%;
+           float: left;
+           text-align: center;
+           color: #666;
+           outline: none;
+           i{
+               font-size: 25px;
+               height: 40px;
+               line-height: 40px;
+           }
+           p{
+               font-size: 8px;
+               height: 14px;
+               line-height: 14px;
+           }
+        }
+    }
+
+}

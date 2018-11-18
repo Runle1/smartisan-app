@@ -1,0 +1,10 @@
+{
+    "/product": {
+      "target": "https://www.smartisan.com",
+      "changeOrigin":true
+    },
+    "/marketing": {
+      "target": "https://www.smartisan.com",
+      "changeOrigin":true
+    }
+}
